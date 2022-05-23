@@ -1,21 +1,21 @@
-### Ecommerce App
+# Ecommerce App
 
 An eccomerce website about headphones
 
 ## Libraries and packages:
 
-# Nextjs
+### Nextjs
 
-# canvas-confetti
+### canvas-confetti
 
-# Sanity
+### Sanity
 
-# React-hot-toast
+### React-hot-toast
 
-# React-icons
+### React-icons
 
-# Stripe
+### Stripe
 
-#Run npm install for missing dependecies
+#### Run npm install for missing dependecies
 
-#npm run dev for starting local host
+#### npm run dev for starting local host
